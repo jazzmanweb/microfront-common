@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jazzmanweb/microfront-common/issues"
   },
-  "homepage": "https://github.com/jazzmanweb/microfront-common#readme"
+  "homepage": "https://github.com/jazzmanweb/microfront-common#readme",
+  "devDependencies": {
+    "typescript": "~3.2.4"
+  }
 }
