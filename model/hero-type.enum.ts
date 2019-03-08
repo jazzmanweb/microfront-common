@@ -1,5 +1,5 @@
 export enum HeroTypeEnum {
-    LeagueOfJustice,
-    Avengers,
-    xMen,
+    LeagueOfJustice = 'LeagueOfJustice',
+    Avengers = 'Avengers',
+    xMen = 'xMen',
 }
