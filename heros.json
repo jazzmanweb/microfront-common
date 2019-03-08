@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Batman",
+        "type": "LeagueOfJustice"
+    },
+    {
+        "name": "Superman",
+        "type": "LeagueOfJustice"
+    },
+    {
+        "name": "Ironman",
+        "type": "Avengers"
+    },
+    {
+        "name": "Captain America",
+        "type": "Avengers"
+    },
+    {
+        "name": "Hulk",
+        "type": "Avengers"
+    },
+    {
+        "name": "Wolverin",
+        "type": "xMen"
+    }
+]
